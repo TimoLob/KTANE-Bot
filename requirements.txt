@@ -1,0 +1,11 @@
+
+pip install SpeechRecognition
+pip install pyaudio
+pip install pywin32  
+
+pip install pyaudio
+
+pip install pyttsx 
+if this fails, install this version:
+https://github.com/westonpace/pyttsx
+run setup.py install after downloading the repository
